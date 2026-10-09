@@ -9,6 +9,10 @@ I'm also interested in image processing and autonomous control.
 
 ## 🛠️ Side Projects
 
+Projects driven by curiosity and personal interests.
+
+A big thank you to Claude and ChatGPT for helping me bring these projects to life! 🙂
+
 <a href="https://github.com/nathanatgit/AppDualZuku"><img src="assets/appdualzuku.png" width="100%" alt="AppDualZuku: manage multiple app instances across workspaces with Shizuku"></a>
 
 
