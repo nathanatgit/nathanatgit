@@ -24,3 +24,6 @@ A big thank you to Claude and ChatGPT for helping me bring these projects to lif
 
 <a href="https://github.com/nathanatgit/ms-todo-oauth"><img src="assets/ms-todo-oauth.png" width="100%" alt="ms-todo-oauth: OAuth-based agent skill for Microsoft To Do"></a>
 
+
+
+<a href="https://github.com/nathanatgit/AreYouThere"><img src="assets/areyouthere.png" width="100%" alt="在吗 AreYouThere: webcam presence detection that keeps Windows awake while you're there and locks it when you leave"></a>
